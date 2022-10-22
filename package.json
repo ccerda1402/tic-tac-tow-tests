@@ -1,0 +1,5 @@
+{
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+   "cy:spec": "cypress run --spec"
+}
